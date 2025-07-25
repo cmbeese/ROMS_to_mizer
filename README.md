@@ -106,7 +106,7 @@ The suffix `moave_{yr}_{mo}`  indicates monthly average, year, and month, e.g. `
 
 - cgoa 3km model hindcast: `monthly_aves`
 
-- nep 10km model hindcast: `monthly_aves_nep_hind`
+- nep 10km model hindcast: `monthly_aves_nep_revised_hind`
 
 - nep 10km model GFDL "historical" run: `monthly_aves_nep_wb_hist`
 
